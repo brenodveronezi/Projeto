@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projeto.cl_Cliente">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAQAoAIGACACAkwgBABBKAAAAQgAAAgIIwBAGCEAQ=</HashCode>
+      <FileName>cl_Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto.cl_Produto">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAEABAAAAQQhAAAAIEAAAABQAAAAkAAEAAAA=</HashCode>
+      <FileName>cl_Produto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto.cl_Funcionario">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SQIAAEoAIGACACAkwgBAJBKACCAQgAgAgIIwBAGCEAQ=</HashCode>
+      <FileName>cl_Funcionario.cs</FileName>
+      <NewMemberFileName>cl_Cliente.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projeto.cl_LoginSYS">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAEAAAAAAQABAIAAACCAAAAgAAAAwAAACEAA=</HashCode>
+      <FileName>cl_LoginSYS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
